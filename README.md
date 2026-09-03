@@ -2,18 +2,18 @@
 # Customer-Banking-Insights- #
 Built an interactive Power BI dashboard analyzing 4,000+ customer records across UK: Visualized gender distribution, customer balance trends, job classification insight, implemented filters &amp; slicers (region, age group, job classification, month) for dynamic analysis, delivered actionable insights such as demographic-based trends.
 
-# 📘 Overview #
+# Overview #
 
 This Power BI dashboard provides an in-depth analysis of customer banking insights across the United Kingdom. It visualizes key customer demographics, financial balances, and growth trends to help understand customer behavior, regional distribution, and financial patterns.
 
-# 🎯 Objectives
+# Objectives
 
 1. To analyze customer balances across regions, genders, and job classifications.
 2. To understand the contribution of different age groups to total bank balances.
 3. To identify growth trends in customer acquisition over quarters.
 4. To provide actionable insights for improving customer engagement and retention strategies.
 
-# 🧩 Dashboard Features 
+#  Dashboard Features 
 
 # Page 1 – Overview
 - Key Metrics
@@ -62,7 +62,7 @@ This Power BI dashboard provides an in-depth analysis of customer banking insigh
 - England and Scotland have strong male customer representation.
 - Quarter 4 marks the highest customer acquisition period.
 
-# 🧠 Tools and Technologies
+# Tools and Technologies
 
 1. Power BI (for data visualization & dashboard creation)
 2. CSV (data source)
